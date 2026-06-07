@@ -1,0 +1,26 @@
+{
+  "name": "jest-testing-lab",
+  "version": "1.0.0",
+  "description": "Лабораторная работа по тестированию с Jest",
+  "main": "index.js",
+"scripts": {
+  "test": "jest",
+  "test:watch": "jest --watch",
+  "test:coverage": "jest --coverage"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farutinivan0-beep/jest-testing-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/farutinivan0-beep/jest-testing-lab/issues"
+  },
+  "homepage": "https://github.com/farutinivan0-beep/jest-testing-lab#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
